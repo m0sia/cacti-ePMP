@@ -39,4 +39,4 @@ Cacti templates for ePMP
 ![MCS](https://github.com/m0sia/cacti-ePMP/raw/master/images/MCS Stats.png)
 
 * Add new graph
-![MCS Stats](https://github.com/m0sia/cacti-ePMP/raw/master/images/MCS Stats.png)
+![MCS Stats](https://github.com/m0sia/cacti-ePMP/raw/master/images/Add Graph.png)
